@@ -1,0 +1,11 @@
+Host: Dell PowerEdge T560
+GPU: RTX 5000 / 6000 Ada
+RAM: 256GB DDR5 ECC 
+CPU: Intel Xeon Gold 5318Y
+App Layer: Libre Chat
+Runtime: vLLM
+OS: Ubuntu Server TTS
+Containerization: Docker
+Embeddings: bge-large (map text into 1024-dimensional vectors for tasks like retrieval, classification, clustering, and semantic search.)
+Vector Database: Qdrant (RAG)
+Vision Model: Qwen2.5-VL
