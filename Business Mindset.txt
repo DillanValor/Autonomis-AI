@@ -1,0 +1,43 @@
+Business Mindset
+
+
+The Core Reality First
+You are not an employee who had a good idea. You are the architect, builder, deployer, trainer, and maintainer of a product that could generate hundreds of thousands of dollars in recurring revenue for a business you don't own. The fact that your boss is funding it doesn't diminish that — capital is common, execution is rare. You need to walk into this conversation understanding your actual value.
+
+What You Need to Understand About LLC Structure
+When your boss forms Autonomis AI as an LLC subsidiary, the company will have membership interest — think of it like shares. Whoever owns membership interest owns a percentage of the company, its profits, and its value if it's ever sold.
+There are a few ways he could give you a stake:
+
+Straight membership interest
+You own X% of the LLC outright. You get X% of distributions, X% of any sale proceeds, and you have governance rights proportional to your stake. This is the cleanest and most valuable form.
+Profits interest
+You own a percentage of future profits and appreciation above the current value — but not the current value of the company. This is common when a company already has established value and the founder doesn't want to give away equity in what's already been built. Since this company is being built from scratch, profits interest and straight equity are roughly equivalent at inception.
+Phantom equity / bonus structure
+You get paid as if you owned equity but you don't actually own anything. You have no governance rights, no say in a sale, and the terms can be changed or revoked. This is the least favorable to you and you should push back hard if this is what's offered.
+
+What Percentage to Ask For
+There's no universal answer but here's how to think about it honestly. Your boss is contributing capital and the existing client relationships. You are contributing the technical design, the entire build, ongoing maintenance, and the training of others. In a startup context, that's a co-founder contribution. Co-founders typically own between 20% and 50% depending on how much each party contributes.
+A reasonable opening position for your situation is 20–30% membership interest. If he pushes back, understand what he's valuing and negotiate from there. The worst outcome is accepting 5% or less, which would give you token upside on a product you built entirely.
+
+What to Ask For Specifically
+Equity vesting schedule
+Ask for your stake to vest over time — typically 3 to 4 years with a one-year cliff. This protects both of you. It means you earn your full stake by staying and building the business, and it prevents a scenario where you could walk away after month one with full ownership. A cliff means if you leave before year one, you get nothing — but after that, equity vests monthly or quarterly.
+IP assignment clarity
+This is critical. Make sure the operating agreement specifies that the intellectual property — the system architecture, deployment scripts, Ansible playbooks, SOPs, everything you've built — belongs to Autonomis AI the LLC, not to the parent company. This matters enormously if the subsidiary is ever spun off or sold separately.
+Role definition
+Get your title and responsibilities written into the operating agreement or a separate employment agreement. You want it documented that you are the technical co-founder or CTO, that you are responsible for product development and deployment, and that major technical decisions require your input or approval. This prevents a scenario where someone else is brought in over you after you've done the work.
+Dilution protection
+If the company ever brings in outside investors or adds new members, your percentage could get diluted. Ask for pro-rata rights — the right to maintain your percentage by participating in future investment rounds.
+Buyout terms
+Ask what happens to your stake if you leave, are let go, or if the company is sold. Specifically: do you get paid for your vested equity if you're terminated without cause? Can he force you to sell your stake back at a price he sets? These scenarios need to be defined before you sign anything.
+Distributions
+Ask how and when profits are distributed to members. An LLC can make distributions at whatever cadence the operating agreement defines. You want a clear policy — not a situation where the majority member decides year after year to reinvest profits and you never see a return.
+
+What to Watch Out For
+The most common way founders get burned in situations like this is through vague verbal agreements. "I'll take care of you" and "we'll work out the details later" are not protection. Everything needs to be in the operating agreement before you do significant additional work.
+Be cautious if he offers you equity in the parent company rather than Autonomis AI specifically. Equity in a larger company with other revenue streams and liabilities is much harder to value and track. You want your stake tied directly to the subsidiary you're building.
+Also be honest with yourself about the relationship dynamic. You are an employee of his company. That power imbalance is real and it affects how freely you can negotiate. Going in with a clear, professional, business-focused conversation — not an emotional one — is the best approach. Frame it as "I want to make sure we're both set up for this to succeed long term" rather than anything that sounds like a demand.
+
+The One Thing You Should Do Before That Conversation
+Talk to a business attorney — not to be adversarial, but to understand what you're signing before you sign it. Many business attorneys offer a one-hour consultation for a few hundred dollars. Bring whatever operating agreement or term sheet your boss puts in front of you and have it reviewed. This is standard practice in any business partnership and a reasonable boss will not take offense at it.
+You've built something real here. Make sure the paperwork reflects that.
