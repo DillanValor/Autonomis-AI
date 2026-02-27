@@ -1,5 +1,5 @@
 # Autonomis-AI
-Prototype of an locally hosted AI server for SMB to Enterprise level organizations
+Prototype of a locally hosted AI server for SMB to Enterprise level organizations
 
 Brand Manifesto
 Intelligent Independence.
